@@ -1,0 +1,501 @@
+Registration_ID,Name,Age,Gender,Location,Ticket_Type,Check_in_Time,Check_out_Time,No_Show,Amount_Paid
+1,Ankit,39,Female,Hyderabad,VIP,01:26 PM,07:26 PM,0,1000
+2,Pooja,30,Male,Hyderabad,Regular,09:00 AM,02:00 PM,0,5000
+3,Amit,44,Male,Pune,Regular,03:45 PM,05:45 PM,0,3000
+4,Manoj,30,Male,Mumbai,Student,10:11 AM,12:11 PM,0,2000
+5,Pooja,25,Male,Pune,Student,10:07 AM,04:07 PM,0,3000
+6,Vikas,47,Female,Pune,VIP,11:34 AM,01:34 PM,1,1000
+7,Pooja,45,Female,Bangalore,Group,03:04 PM,08:04 PM,0,3000
+8,Neha,48,Male,Ahmedabad,Student,05:50 PM,10:50 PM,0,2000
+9,Rahul,28,Female,Ahmedabad,VIP,01:21 PM,05:21 PM,0,1000
+10,Priya,51,Female,Chennai,Group,01:42 PM,06:42 PM,0,3000
+11,Manoj,49,Male,Kolkata,Student,05:09 PM,11:09 PM,0,5000
+12,Rahul,42,Male,Bangalore,Group,10:59 AM,03:59 PM,0,5000
+13,Manoj,53,Female,Bangalore,Student,04:12 PM,08:12 PM,0,500
+14,Vikas,49,Male,Bangalore,VIP,05:48 PM,11:48 PM,1,1000
+15,Priya,42,Female,Ahmedabad,Regular,03:01 PM,06:01 PM,0,2000
+16,Amit,44,Female,Ahmedabad,Student,03:10 PM,07:10 PM,0,5000
+17,Manoj,21,Female,Pune,Student,04:58 PM,07:58 PM,0,1000
+18,Amit,47,Female,Delhi,VIP,01:34 PM,06:34 PM,1,3000
+19,Rahul,46,Male,Pune,Early Bird,04:49 PM,05:49 PM,0,1000
+20,Priya,20,Female,Hyderabad,Group,01:38 PM,02:38 PM,0,5000
+21,Riya,25,Male,Hyderabad,VIP,03:57 PM,09:57 PM,0,1000
+22,Priya,55,Male,Hyderabad,Student,11:00 AM,02:00 PM,0,500
+23,Ankit,47,Female,Bangalore,Early Bird,04:51 PM,10:51 PM,0,5000
+24,Pooja,27,Male,Kolkata,VIP,02:20 PM,06:20 PM,1,1000
+25,Priya,38,Female,Mumbai,Regular,11:58 AM,05:58 PM,0,1000
+26,Manoj,39,Male,Ahmedabad,Student,10:12 AM,01:12 PM,0,3000
+27,Pooja,53,Male,Mumbai,Group,12:50 PM,05:50 PM,0,1000
+28,Neha,31,Female,Pune,Early Bird,11:13 AM,01:13 PM,0,2000
+29,Rahul,29,Female,Mumbai,Student,01:36 PM,05:36 PM,0,2000
+30,Vikas,51,Male,Bangalore,Group,12:52 PM,02:52 PM,1,5000
+31,Riya,24,Male,Ahmedabad,VIP,02:00 PM,04:00 PM,0,500
+32,Rahul,55,Male,Ahmedabad,Student,09:36 AM,10:36 AM,0,3000
+33,Priya,19,Male,Hyderabad,Early Bird,11:49 AM,12:49 PM,0,1000
+34,Priya,46,Male,Ahmedabad,Early Bird,11:14 AM,05:14 PM,0,1000
+35,Manoj,39,Female,Pune,Early Bird,11:21 AM,04:21 PM,1,2000
+36,Riya,53,Male,Hyderabad,Student,04:39 PM,10:39 PM,0,5000
+37,Vikas,34,Female,Bangalore,Regular,09:15 AM,10:15 AM,0,5000
+38,Pooja,36,Male,Ahmedabad,Early Bird,04:46 PM,08:46 PM,0,1000
+39,Amit,25,Female,Chennai,Group,01:22 PM,02:22 PM,0,1000
+40,Simran,35,Male,Delhi,Early Bird,11:14 AM,05:14 PM,0,5000
+41,Priya,30,Male,Delhi,Student,03:20 PM,09:20 PM,0,500
+42,Pooja,54,Male,Delhi,VIP,12:38 PM,05:38 PM,0,1000
+43,Simran,22,Male,Chennai,VIP,04:53 PM,08:53 PM,0,2000
+44,Priya,31,Male,Bangalore,Student,01:55 PM,05:55 PM,0,3000
+45,Neha,51,Male,Ahmedabad,Group,10:08 AM,01:08 PM,0,1000
+46,Ankit,36,Male,Delhi,Student,05:29 PM,10:29 PM,0,5000
+47,Vikas,48,Male,Mumbai,Regular,11:12 AM,02:12 PM,0,1000
+48,Manoj,23,Male,Ahmedabad,VIP,03:33 PM,07:33 PM,0,2000
+49,Simran,32,Male,Pune,Student,11:29 AM,05:29 PM,0,5000
+50,Rahul,49,Male,Mumbai,Student,12:23 PM,05:23 PM,0,1000
+51,Simran,51,Male,Pune,Student,04:28 PM,08:28 PM,0,3000
+52,Simran,30,Female,Ahmedabad,Group,03:22 PM,04:22 PM,1,5000
+53,Rahul,21,Female,Chennai,Regular,12:01 PM,03:01 PM,0,1000
+54,Rahul,38,Male,Hyderabad,Group,05:54 PM,08:54 PM,0,2000
+55,Rahul,18,Male,Kolkata,Group,02:06 PM,06:06 PM,0,500
+56,Manoj,35,Female,Mumbai,Student,04:14 PM,06:14 PM,0,2000
+57,Manoj,24,Male,Chennai,Group,10:48 AM,11:48 AM,0,1000
+58,Manoj,43,Male,Mumbai,Student,09:36 AM,02:36 PM,0,5000
+59,Ankit,25,Male,Ahmedabad,Group,04:25 PM,06:25 PM,0,500
+60,Vikas,34,Male,Pune,Student,12:02 PM,06:02 PM,0,500
+61,Neha,31,Male,Pune,Group,01:50 PM,07:50 PM,0,5000
+62,Vikas,22,Male,Chennai,Student,03:35 PM,06:35 PM,0,5000
+63,Riya,35,Female,Delhi,Student,03:36 PM,09:36 PM,0,2000
+64,Simran,41,Male,Kolkata,Student,03:26 PM,04:26 PM,1,2000
+65,Pooja,46,Male,Pune,Early Bird,01:44 PM,04:44 PM,1,2000
+66,Simran,45,Female,Hyderabad,Regular,03:20 PM,06:20 PM,0,5000
+67,Ankit,26,Male,Delhi,Regular,11:02 AM,04:02 PM,0,500
+68,Rahul,42,Male,Kolkata,Group,02:02 PM,06:02 PM,1,500
+69,Manoj,19,Female,Bangalore,Student,09:42 AM,01:42 PM,0,3000
+70,Priya,31,Male,Delhi,Regular,09:43 AM,10:43 AM,0,3000
+71,Vikas,53,Male,Ahmedabad,Regular,02:06 PM,05:06 PM,0,3000
+72,Priya,50,Female,Bangalore,Group,01:12 PM,02:12 PM,0,500
+73,Rahul,53,Male,Ahmedabad,Student,04:19 PM,08:19 PM,0,2000
+74,Ankit,18,Female,Mumbai,Student,01:54 PM,02:54 PM,0,2000
+75,Priya,20,Male,Bangalore,Early Bird,03:47 PM,06:47 PM,0,5000
+76,Vikas,26,Male,Delhi,VIP,10:46 AM,03:46 PM,0,1000
+77,Pooja,52,Male,Ahmedabad,Early Bird,11:02 AM,04:02 PM,0,500
+78,Rahul,42,Male,Chennai,VIP,02:50 PM,05:50 PM,1,2000
+79,Amit,26,Female,Mumbai,Student,03:54 PM,08:54 PM,0,2000
+80,Simran,50,Female,Hyderabad,VIP,11:41 AM,02:41 PM,0,3000
+81,Rahul,24,Male,Bangalore,Early Bird,01:58 PM,05:58 PM,0,3000
+82,Neha,27,Female,Ahmedabad,VIP,02:53 PM,08:53 PM,0,1000
+83,Simran,51,Female,Mumbai,Regular,05:01 PM,11:01 PM,0,3000
+84,Vikas,37,Female,Ahmedabad,Regular,02:18 PM,06:18 PM,0,3000
+85,Manoj,28,Female,Delhi,Group,05:55 PM,06:55 PM,0,1000
+86,Amit,53,Female,Kolkata,VIP,05:08 PM,11:08 PM,0,500
+87,Riya,39,Female,Kolkata,VIP,01:48 PM,06:48 PM,1,500
+88,Riya,44,Male,Pune,Group,12:30 PM,02:30 PM,0,3000
+89,Vikas,54,Female,Chennai,Early Bird,11:10 AM,01:10 PM,0,500
+90,Vikas,24,Female,Hyderabad,Student,09:53 AM,03:53 PM,0,5000
+91,Vikas,37,Male,Hyderabad,Regular,01:02 PM,07:02 PM,1,1000
+92,Pooja,40,Male,Hyderabad,Group,03:28 PM,05:28 PM,1,5000
+93,Pooja,29,Female,Ahmedabad,Group,09:06 AM,12:06 PM,0,2000
+94,Vikas,55,Female,Chennai,Student,10:03 AM,02:03 PM,1,3000
+95,Amit,48,Male,Bangalore,Student,02:59 PM,07:59 PM,0,5000
+96,Riya,19,Male,Mumbai,Student,10:04 AM,12:04 PM,0,5000
+97,Riya,39,Male,Ahmedabad,Group,03:18 PM,08:18 PM,0,1000
+98,Pooja,36,Male,Chennai,Group,03:36 PM,06:36 PM,0,5000
+99,Rahul,37,Female,Ahmedabad,Student,02:51 PM,08:51 PM,0,5000
+100,Priya,36,Female,Bangalore,Group,12:47 PM,02:47 PM,0,500
+101,Pooja,35,Male,Mumbai,Early Bird,09:24 AM,03:24 PM,0,1000
+102,Pooja,49,Male,Delhi,Regular,02:25 PM,07:25 PM,0,3000
+103,Simran,20,Female,Hyderabad,Student,03:57 PM,05:57 PM,0,5000
+104,Simran,34,Male,Pune,Student,03:48 PM,06:48 PM,1,5000
+105,Manoj,44,Male,Hyderabad,VIP,11:06 AM,05:06 PM,0,5000
+106,Vikas,22,Female,Hyderabad,Student,03:15 PM,07:15 PM,0,3000
+107,Vikas,34,Female,Mumbai,Group,01:39 PM,06:39 PM,0,2000
+108,Rahul,54,Female,Bangalore,Student,12:35 PM,03:35 PM,0,2000
+109,Ankit,41,Female,Mumbai,Early Bird,04:03 PM,08:03 PM,0,500
+110,Amit,28,Male,Mumbai,Early Bird,03:46 PM,06:46 PM,0,3000
+111,Simran,20,Male,Delhi,Regular,01:34 PM,05:34 PM,0,1000
+112,Vikas,30,Female,Kolkata,Student,01:21 PM,05:21 PM,1,2000
+113,Vikas,42,Male,Chennai,Regular,10:12 AM,11:12 AM,0,500
+114,Simran,32,Male,Bangalore,VIP,11:47 AM,03:47 PM,0,5000
+115,Neha,18,Male,Bangalore,VIP,09:03 AM,02:03 PM,0,1000
+116,Amit,53,Female,Mumbai,Student,03:29 PM,06:29 PM,0,1000
+117,Ankit,29,Male,Pune,Group,11:30 AM,04:30 PM,0,500
+118,Manoj,30,Male,Bangalore,Early Bird,02:46 PM,05:46 PM,0,2000
+119,Riya,32,Female,Pune,VIP,10:27 AM,01:27 PM,0,2000
+120,Ankit,27,Male,Pune,Regular,12:56 PM,03:56 PM,0,500
+121,Priya,28,Female,Ahmedabad,VIP,04:11 PM,10:11 PM,1,1000
+122,Pooja,49,Female,Bangalore,VIP,09:45 AM,01:45 PM,0,500
+123,Manoj,32,Male,Chennai,Group,09:35 AM,02:35 PM,0,1000
+124,Pooja,19,Female,Bangalore,Regular,12:24 PM,01:24 PM,0,5000
+125,Pooja,22,Female,Bangalore,Regular,04:09 PM,06:09 PM,0,2000
+126,Manoj,28,Male,Pune,Group,09:48 AM,02:48 PM,0,3000
+127,Ankit,45,Female,Hyderabad,Group,04:45 PM,10:45 PM,1,3000
+128,Vikas,47,Male,Chennai,Early Bird,03:30 PM,08:30 PM,1,3000
+129,Simran,44,Female,Bangalore,Regular,09:17 AM,11:17 AM,0,2000
+130,Manoj,37,Male,Ahmedabad,Student,10:10 AM,01:10 PM,0,3000
+131,Manoj,41,Female,Ahmedabad,Regular,10:21 AM,03:21 PM,0,1000
+132,Manoj,40,Female,Mumbai,VIP,11:46 AM,04:46 PM,0,5000
+133,Priya,53,Male,Mumbai,Early Bird,05:47 PM,07:47 PM,0,5000
+134,Rahul,54,Female,Pune,Group,04:17 PM,10:17 PM,0,500
+135,Ankit,27,Female,Pune,Student,04:03 PM,07:03 PM,0,5000
+136,Manoj,42,Female,Delhi,Regular,04:43 PM,06:43 PM,0,500
+137,Manoj,32,Male,Kolkata,Regular,04:16 PM,09:16 PM,0,1000
+138,Riya,41,Male,Chennai,Early Bird,12:20 PM,05:20 PM,0,2000
+139,Amit,50,Male,Pune,Group,05:49 PM,10:49 PM,0,2000
+140,Riya,37,Male,Bangalore,Early Bird,03:06 PM,09:06 PM,0,2000
+141,Neha,28,Female,Chennai,Regular,01:59 PM,03:59 PM,1,5000
+142,Rahul,29,Female,Mumbai,Regular,03:14 PM,09:14 PM,0,3000
+143,Simran,41,Female,Pune,Group,09:34 AM,02:34 PM,0,2000
+144,Vikas,21,Female,Bangalore,Group,11:03 AM,02:03 PM,1,500
+145,Rahul,30,Female,Delhi,Regular,12:30 PM,03:30 PM,0,1000
+146,Rahul,30,Female,Hyderabad,Group,10:30 AM,12:30 PM,0,5000
+147,Vikas,18,Male,Bangalore,Student,10:49 AM,12:49 PM,0,3000
+148,Simran,38,Male,Kolkata,Student,10:20 AM,02:20 PM,0,1000
+149,Amit,29,Female,Ahmedabad,Student,05:57 PM,06:57 PM,0,5000
+150,Ankit,29,Female,Ahmedabad,Group,12:23 PM,03:23 PM,1,2000
+151,Riya,45,Male,Pune,Group,04:52 PM,06:52 PM,0,2000
+152,Amit,49,Female,Mumbai,Group,10:45 AM,03:45 PM,0,500
+153,Rahul,20,Male,Pune,Group,02:17 PM,07:17 PM,0,2000
+154,Riya,41,Male,Hyderabad,Regular,11:01 AM,01:01 PM,0,500
+155,Simran,26,Male,Hyderabad,Early Bird,09:02 AM,11:02 AM,0,5000
+156,Pooja,20,Female,Ahmedabad,Early Bird,02:00 PM,06:00 PM,0,3000
+157,Vikas,29,Male,Ahmedabad,Regular,11:37 AM,03:37 PM,1,2000
+158,Amit,25,Male,Pune,Student,02:19 PM,07:19 PM,0,3000
+159,Manoj,38,Female,Ahmedabad,VIP,09:20 AM,03:20 PM,0,2000
+160,Pooja,25,Female,Ahmedabad,Group,10:28 AM,01:28 PM,0,2000
+161,Priya,40,Male,Delhi,Early Bird,01:43 PM,07:43 PM,0,3000
+162,Manoj,27,Male,Mumbai,Student,05:59 PM,08:59 PM,0,5000
+163,Rahul,18,Male,Ahmedabad,Group,05:47 PM,09:47 PM,1,2000
+164,Rahul,54,Male,Kolkata,Regular,11:30 AM,05:30 PM,0,3000
+165,Simran,39,Male,Chennai,Early Bird,10:55 AM,01:55 PM,0,500
+166,Priya,26,Male,Delhi,Group,09:04 AM,02:04 PM,1,1000
+167,Neha,29,Male,Ahmedabad,Early Bird,03:15 PM,09:15 PM,0,1000
+168,Priya,28,Female,Pune,Early Bird,11:50 AM,04:50 PM,0,2000
+169,Rahul,28,Female,Pune,Early Bird,02:22 PM,08:22 PM,0,5000
+170,Ankit,19,Male,Pune,Early Bird,09:12 AM,01:12 PM,0,500
+171,Ankit,43,Male,Mumbai,Group,11:50 AM,05:50 PM,0,2000
+172,Amit,37,Female,Delhi,Early Bird,09:30 AM,12:30 PM,0,500
+173,Simran,20,Female,Pune,Regular,04:15 PM,06:15 PM,0,3000
+174,Ankit,21,Female,Ahmedabad,Student,05:06 PM,11:06 PM,0,1000
+175,Amit,31,Male,Chennai,Group,01:08 PM,05:08 PM,0,500
+176,Ankit,30,Male,Pune,Regular,03:45 PM,04:45 PM,0,2000
+177,Simran,43,Male,Pune,Group,10:38 AM,02:38 PM,0,1000
+178,Simran,31,Male,Mumbai,Regular,11:16 AM,04:16 PM,0,2000
+179,Ankit,22,Female,Pune,Early Bird,10:18 AM,11:18 AM,0,1000
+180,Simran,25,Male,Delhi,Group,12:54 PM,01:54 PM,0,3000
+181,Ankit,30,Female,Ahmedabad,Student,12:55 PM,05:55 PM,0,1000
+182,Ankit,53,Male,Mumbai,VIP,11:43 AM,12:43 PM,0,500
+183,Amit,42,Female,Mumbai,Regular,01:12 PM,03:12 PM,0,1000
+184,Manoj,31,Female,Chennai,Student,01:57 PM,05:57 PM,0,500
+185,Amit,55,Female,Hyderabad,Regular,01:31 PM,05:31 PM,1,1000
+186,Manoj,47,Female,Chennai,VIP,03:01 PM,08:01 PM,0,1000
+187,Amit,34,Female,Bangalore,VIP,11:08 AM,12:08 PM,0,3000
+188,Riya,38,Female,Hyderabad,Regular,10:49 AM,04:49 PM,1,1000
+189,Simran,44,Female,Ahmedabad,Regular,02:38 PM,06:38 PM,1,2000
+190,Riya,40,Male,Chennai,VIP,09:10 AM,02:10 PM,0,500
+191,Manoj,36,Male,Hyderabad,VIP,02:47 PM,06:47 PM,0,5000
+192,Neha,24,Female,Mumbai,VIP,02:33 PM,05:33 PM,0,5000
+193,Riya,40,Female,Hyderabad,Early Bird,12:35 PM,02:35 PM,0,2000
+194,Priya,33,Male,Bangalore,Regular,03:14 PM,09:14 PM,0,5000
+195,Amit,47,Female,Ahmedabad,VIP,11:29 AM,02:29 PM,0,3000
+196,Vikas,28,Female,Bangalore,Regular,02:38 PM,06:38 PM,0,5000
+197,Amit,22,Male,Bangalore,Student,05:03 PM,07:03 PM,0,2000
+198,Amit,54,Female,Mumbai,VIP,05:44 PM,07:44 PM,0,500
+199,Manoj,30,Male,Mumbai,Student,10:47 AM,03:47 PM,1,2000
+200,Vikas,18,Female,Chennai,Regular,03:00 PM,07:00 PM,0,1000
+201,Priya,22,Female,Kolkata,Student,05:29 PM,06:29 PM,0,1000
+202,Priya,32,Female,Delhi,Group,09:27 AM,02:27 PM,0,500
+203,Pooja,43,Female,Mumbai,Group,02:46 PM,05:46 PM,0,3000
+204,Rahul,28,Female,Bangalore,Early Bird,11:52 AM,04:52 PM,0,500
+205,Neha,38,Male,Chennai,Group,05:43 PM,09:43 PM,0,3000
+206,Priya,51,Female,Delhi,Student,09:43 AM,01:43 PM,0,5000
+207,Ankit,45,Male,Bangalore,VIP,10:42 AM,11:42 AM,0,1000
+208,Amit,32,Male,Mumbai,Student,04:03 PM,09:03 PM,0,1000
+209,Priya,25,Female,Delhi,Student,05:00 PM,07:00 PM,0,1000
+210,Vikas,48,Male,Hyderabad,Regular,10:48 AM,02:48 PM,0,5000
+211,Neha,47,Male,Hyderabad,Regular,02:34 PM,03:34 PM,0,2000
+212,Vikas,32,Female,Ahmedabad,Student,09:48 AM,02:48 PM,0,500
+213,Amit,54,Male,Delhi,Regular,05:52 PM,06:52 PM,1,5000
+214,Pooja,46,Female,Pune,Group,02:46 PM,03:46 PM,0,1000
+215,Riya,29,Female,Mumbai,Early Bird,02:55 PM,07:55 PM,0,3000
+216,Ankit,54,Female,Mumbai,Early Bird,12:47 PM,04:47 PM,0,1000
+217,Ankit,49,Female,Bangalore,VIP,03:41 PM,04:41 PM,0,3000
+218,Manoj,55,Male,Chennai,Regular,04:50 PM,08:50 PM,0,1000
+219,Riya,21,Male,Delhi,Student,01:04 PM,02:04 PM,0,1000
+220,Amit,30,Male,Pune,Student,09:51 AM,03:51 PM,0,2000
+221,Simran,54,Female,Ahmedabad,Student,04:31 PM,08:31 PM,0,5000
+222,Priya,40,Female,Chennai,Regular,11:51 AM,05:51 PM,0,5000
+223,Manoj,29,Female,Delhi,Group,04:08 PM,10:08 PM,1,5000
+224,Neha,36,Female,Bangalore,Early Bird,11:55 AM,12:55 PM,0,3000
+225,Ankit,47,Female,Kolkata,VIP,01:20 PM,04:20 PM,0,1000
+226,Ankit,23,Female,Hyderabad,VIP,01:13 PM,02:13 PM,0,1000
+227,Ankit,36,Female,Pune,Group,12:32 PM,04:32 PM,0,5000
+228,Vikas,28,Female,Kolkata,VIP,02:34 PM,06:34 PM,0,5000
+229,Priya,51,Male,Kolkata,Group,01:59 PM,03:59 PM,1,500
+230,Ankit,21,Female,Hyderabad,Regular,03:10 PM,06:10 PM,0,3000
+231,Rahul,31,Female,Bangalore,VIP,11:36 AM,05:36 PM,0,1000
+232,Riya,30,Male,Hyderabad,Student,11:42 AM,04:42 PM,0,3000
+233,Simran,45,Female,Kolkata,Early Bird,04:10 PM,09:10 PM,1,3000
+234,Ankit,41,Female,Pune,Group,11:21 AM,04:21 PM,0,1000
+235,Vikas,21,Female,Mumbai,Group,05:04 PM,11:04 PM,0,1000
+236,Riya,39,Male,Pune,Student,11:07 AM,02:07 PM,0,5000
+237,Priya,50,Female,Kolkata,VIP,05:07 PM,10:07 PM,1,500
+238,Amit,29,Male,Mumbai,Student,04:32 PM,10:32 PM,0,5000
+239,Manoj,38,Female,Hyderabad,Regular,11:59 AM,01:59 PM,0,3000
+240,Vikas,38,Male,Bangalore,Early Bird,09:47 AM,11:47 AM,0,3000
+241,Manoj,32,Male,Delhi,Early Bird,01:20 PM,06:20 PM,0,1000
+242,Neha,37,Female,Bangalore,Early Bird,01:18 PM,07:18 PM,0,1000
+243,Neha,46,Male,Chennai,VIP,11:54 AM,02:54 PM,0,5000
+244,Pooja,47,Male,Pune,Student,04:31 PM,06:31 PM,0,500
+245,Manoj,23,Female,Bangalore,Group,01:59 PM,03:59 PM,0,5000
+246,Neha,51,Female,Bangalore,Regular,02:00 PM,03:00 PM,1,5000
+247,Riya,21,Female,Hyderabad,Student,04:04 PM,09:04 PM,0,5000
+248,Ankit,50,Female,Ahmedabad,Student,12:47 PM,04:47 PM,1,1000
+249,Priya,45,Male,Chennai,Early Bird,09:14 AM,10:14 AM,0,1000
+250,Neha,29,Male,Kolkata,Early Bird,12:19 PM,06:19 PM,0,1000
+251,Simran,31,Male,Mumbai,Student,04:09 PM,05:09 PM,1,2000
+252,Ankit,47,Female,Pune,Regular,04:27 PM,09:27 PM,0,2000
+253,Pooja,47,Female,Pune,Early Bird,05:10 PM,07:10 PM,0,3000
+254,Manoj,46,Female,Hyderabad,Group,03:46 PM,05:46 PM,0,3000
+255,Pooja,33,Male,Chennai,Student,09:52 AM,02:52 PM,0,5000
+256,Priya,54,Male,Bangalore,Student,10:34 AM,11:34 AM,0,5000
+257,Manoj,45,Female,Hyderabad,Early Bird,04:22 PM,05:22 PM,0,1000
+258,Ankit,35,Female,Delhi,Student,10:54 AM,04:54 PM,0,500
+259,Rahul,21,Male,Hyderabad,VIP,11:43 AM,03:43 PM,1,3000
+260,Vikas,21,Male,Mumbai,Group,05:54 PM,08:54 PM,0,500
+261,Riya,40,Male,Ahmedabad,Group,11:44 AM,01:44 PM,0,3000
+262,Manoj,34,Female,Delhi,VIP,12:06 PM,02:06 PM,0,5000
+263,Simran,46,Female,Bangalore,Regular,02:53 PM,05:53 PM,0,5000
+264,Ankit,43,Female,Ahmedabad,Regular,02:33 PM,05:33 PM,0,2000
+265,Ankit,38,Female,Bangalore,VIP,02:21 PM,04:21 PM,0,1000
+266,Rahul,34,Female,Kolkata,Regular,05:22 PM,06:22 PM,1,5000
+267,Simran,20,Female,Hyderabad,Regular,04:07 PM,05:07 PM,0,2000
+268,Pooja,39,Female,Pune,Group,03:30 PM,04:30 PM,1,1000
+269,Amit,50,Female,Kolkata,VIP,04:28 PM,05:28 PM,0,1000
+270,Simran,25,Male,Kolkata,Student,02:28 PM,06:28 PM,0,2000
+271,Simran,23,Female,Mumbai,Student,01:50 PM,02:50 PM,0,2000
+272,Manoj,41,Female,Mumbai,Student,11:44 AM,05:44 PM,0,1000
+273,Vikas,33,Female,Ahmedabad,Early Bird,09:02 AM,03:02 PM,0,1000
+274,Amit,36,Female,Delhi,Regular,12:59 PM,04:59 PM,0,1000
+275,Simran,41,Female,Pune,Regular,10:25 AM,04:25 PM,0,2000
+276,Amit,26,Female,Bangalore,Student,11:10 AM,05:10 PM,0,3000
+277,Neha,30,Male,Chennai,VIP,11:43 AM,01:43 PM,0,5000
+278,Simran,50,Female,Delhi,VIP,04:55 PM,08:55 PM,0,1000
+279,Pooja,46,Male,Bangalore,VIP,04:37 PM,08:37 PM,0,2000
+280,Manoj,43,Female,Hyderabad,Early Bird,03:42 PM,07:42 PM,0,1000
+281,Pooja,21,Female,Kolkata,Student,02:42 PM,05:42 PM,0,2000
+282,Ankit,43,Male,Chennai,VIP,04:56 PM,10:56 PM,0,5000
+283,Riya,22,Female,Kolkata,Student,09:37 AM,01:37 PM,0,500
+284,Vikas,49,Male,Chennai,VIP,12:10 PM,05:10 PM,0,5000
+285,Vikas,25,Male,Pune,Student,09:23 AM,03:23 PM,0,500
+286,Neha,49,Female,Mumbai,VIP,11:29 AM,01:29 PM,0,5000
+287,Riya,46,Male,Hyderabad,Student,09:40 AM,01:40 PM,1,5000
+288,Pooja,55,Male,Pune,Group,02:50 PM,06:50 PM,0,500
+289,Riya,53,Female,Ahmedabad,Regular,11:55 AM,12:55 PM,1,500
+290,Simran,26,Female,Bangalore,Group,03:25 PM,06:25 PM,0,500
+291,Pooja,25,Male,Mumbai,Group,10:03 AM,01:03 PM,0,3000
+292,Ankit,23,Male,Bangalore,Early Bird,04:38 PM,06:38 PM,0,1000
+293,Pooja,20,Female,Ahmedabad,Group,12:48 PM,04:48 PM,0,1000
+294,Rahul,35,Male,Chennai,Regular,05:50 PM,07:50 PM,0,500
+295,Manoj,33,Male,Mumbai,Group,10:25 AM,03:25 PM,0,5000
+296,Rahul,43,Male,Hyderabad,Student,11:29 AM,04:29 PM,0,500
+297,Pooja,42,Male,Delhi,Group,05:29 PM,06:29 PM,0,2000
+298,Riya,52,Female,Delhi,Student,11:32 AM,01:32 PM,0,1000
+299,Vikas,41,Female,Chennai,VIP,03:21 PM,08:21 PM,0,3000
+300,Priya,32,Female,Mumbai,Student,01:35 PM,04:35 PM,0,1000
+301,Amit,55,Male,Mumbai,VIP,03:10 PM,04:10 PM,0,3000
+302,Pooja,55,Male,Kolkata,Early Bird,01:30 PM,06:30 PM,0,1000
+303,Vikas,29,Female,Ahmedabad,Regular,09:20 AM,10:20 AM,1,2000
+304,Manoj,31,Female,Kolkata,Group,04:24 PM,07:24 PM,0,2000
+305,Simran,53,Female,Mumbai,VIP,09:15 AM,11:15 AM,0,1000
+306,Ankit,36,Female,Hyderabad,VIP,05:37 PM,11:37 PM,0,2000
+307,Amit,20,Female,Chennai,Student,10:39 AM,11:39 AM,0,3000
+308,Pooja,54,Female,Kolkata,Group,10:01 AM,01:01 PM,0,1000
+309,Neha,41,Male,Chennai,VIP,05:11 PM,06:11 PM,0,5000
+310,Riya,33,Male,Mumbai,Regular,11:52 AM,01:52 PM,0,3000
+311,Pooja,38,Female,Bangalore,Student,03:08 PM,04:08 PM,0,2000
+312,Vikas,38,Male,Pune,Student,04:48 PM,09:48 PM,0,5000
+313,Neha,39,Male,Delhi,VIP,04:20 PM,05:20 PM,0,500
+314,Manoj,24,Female,Ahmedabad,Student,02:56 PM,06:56 PM,0,2000
+315,Riya,46,Female,Pune,VIP,03:56 PM,07:56 PM,1,500
+316,Priya,40,Female,Mumbai,Group,12:24 PM,03:24 PM,0,2000
+317,Priya,37,Female,Bangalore,VIP,03:42 PM,05:42 PM,0,3000
+318,Amit,31,Male,Chennai,Student,05:06 PM,07:06 PM,0,5000
+319,Riya,53,Female,Pune,Regular,01:52 PM,06:52 PM,0,3000
+320,Pooja,35,Female,Bangalore,VIP,04:40 PM,07:40 PM,0,2000
+321,Simran,55,Female,Kolkata,Student,03:36 PM,09:36 PM,0,5000
+322,Pooja,24,Female,Bangalore,Regular,10:00 AM,12:00 PM,0,5000
+323,Vikas,20,Female,Delhi,Regular,09:00 AM,03:00 PM,0,1000
+324,Pooja,53,Female,Pune,Group,01:09 PM,04:09 PM,0,2000
+325,Simran,46,Female,Bangalore,Regular,04:18 PM,06:18 PM,0,5000
+326,Ankit,33,Male,Chennai,VIP,01:35 PM,05:35 PM,1,5000
+327,Riya,26,Female,Mumbai,Early Bird,01:24 PM,05:24 PM,0,5000
+328,Ankit,20,Male,Ahmedabad,VIP,11:31 AM,02:31 PM,0,1000
+329,Amit,20,Female,Delhi,VIP,02:23 PM,06:23 PM,0,500
+330,Vikas,41,Male,Pune,Early Bird,02:18 PM,03:18 PM,0,2000
+331,Neha,53,Female,Kolkata,Regular,02:40 PM,03:40 PM,0,3000
+332,Rahul,48,Male,Ahmedabad,Early Bird,11:37 AM,03:37 PM,0,500
+333,Neha,42,Male,Hyderabad,Group,11:44 AM,04:44 PM,0,1000
+334,Manoj,43,Female,Ahmedabad,Regular,01:55 PM,04:55 PM,1,3000
+335,Ankit,36,Male,Hyderabad,VIP,11:13 AM,12:13 PM,0,500
+336,Simran,26,Female,Delhi,Student,10:58 AM,04:58 PM,0,5000
+337,Pooja,36,Female,Mumbai,Regular,11:17 AM,03:17 PM,1,2000
+338,Simran,45,Female,Kolkata,Regular,12:28 PM,03:28 PM,0,1000
+339,Ankit,40,Male,Chennai,VIP,09:41 AM,01:41 PM,0,3000
+340,Rahul,31,Female,Mumbai,Regular,02:44 PM,08:44 PM,0,5000
+341,Amit,20,Male,Hyderabad,Early Bird,11:51 AM,03:51 PM,0,3000
+342,Riya,35,Female,Hyderabad,Student,01:21 PM,04:21 PM,0,500
+343,Rahul,34,Male,Bangalore,Early Bird,01:14 PM,04:14 PM,0,2000
+344,Amit,39,Male,Ahmedabad,Group,02:49 PM,05:49 PM,0,1000
+345,Neha,53,Female,Pune,Group,05:17 PM,07:17 PM,0,1000
+346,Riya,44,Male,Ahmedabad,Group,10:22 AM,12:22 PM,0,2000
+347,Priya,53,Female,Pune,Student,02:10 PM,03:10 PM,0,3000
+348,Neha,32,Female,Chennai,Early Bird,03:29 PM,06:29 PM,0,1000
+349,Rahul,46,Male,Delhi,VIP,01:24 PM,02:24 PM,0,5000
+350,Amit,32,Male,Bangalore,Regular,10:06 AM,12:06 PM,0,2000
+351,Priya,46,Female,Mumbai,Early Bird,09:39 AM,03:39 PM,0,1000
+352,Manoj,35,Male,Bangalore,Group,04:20 PM,07:20 PM,0,2000
+353,Rahul,39,Male,Hyderabad,Early Bird,01:55 PM,05:55 PM,0,3000
+354,Manoj,37,Female,Pune,Student,10:30 AM,02:30 PM,0,2000
+355,Vikas,25,Male,Hyderabad,Early Bird,05:17 PM,11:17 PM,1,1000
+356,Ankit,30,Female,Kolkata,Regular,01:45 PM,04:45 PM,1,500
+357,Simran,54,Female,Ahmedabad,Group,10:05 AM,01:05 PM,0,1000
+358,Riya,21,Female,Delhi,Student,11:52 AM,04:52 PM,0,3000
+359,Rahul,48,Male,Chennai,Student,05:11 PM,11:11 PM,0,1000
+360,Manoj,22,Female,Delhi,Early Bird,02:38 PM,06:38 PM,0,2000
+361,Pooja,45,Female,Chennai,Early Bird,04:38 PM,09:38 PM,1,500
+362,Riya,41,Male,Delhi,VIP,04:41 PM,10:41 PM,0,500
+363,Priya,42,Female,Kolkata,Group,10:29 AM,02:29 PM,0,500
+364,Pooja,36,Female,Pune,Regular,02:52 PM,05:52 PM,0,2000
+365,Neha,41,Male,Chennai,Student,04:52 PM,07:52 PM,0,3000
+366,Ankit,46,Male,Chennai,Student,10:06 AM,03:06 PM,0,500
+367,Neha,47,Female,Pune,Regular,05:09 PM,06:09 PM,0,5000
+368,Ankit,36,Male,Pune,Regular,01:50 PM,06:50 PM,0,5000
+369,Ankit,47,Male,Pune,Regular,03:55 PM,05:55 PM,0,3000
+370,Neha,49,Male,Mumbai,Regular,09:29 AM,10:29 AM,0,1000
+371,Neha,45,Male,Delhi,Early Bird,04:06 PM,07:06 PM,0,1000
+372,Ankit,49,Male,Ahmedabad,Group,01:07 PM,07:07 PM,0,1000
+373,Priya,37,Female,Ahmedabad,Group,03:45 PM,06:45 PM,0,500
+374,Priya,47,Female,Hyderabad,Regular,05:36 PM,07:36 PM,1,3000
+375,Ankit,40,Male,Ahmedabad,Group,02:42 PM,05:42 PM,0,3000
+376,Neha,38,Male,Ahmedabad,Group,02:48 PM,06:48 PM,0,3000
+377,Vikas,33,Male,Pune,VIP,12:53 PM,01:53 PM,0,2000
+378,Rahul,35,Female,Kolkata,Regular,12:14 PM,03:14 PM,0,2000
+379,Rahul,34,Male,Ahmedabad,Group,01:18 PM,02:18 PM,0,2000
+380,Rahul,21,Female,Chennai,Group,05:35 PM,11:35 PM,0,2000
+381,Ankit,34,Male,Pune,Regular,03:03 PM,04:03 PM,0,500
+382,Simran,26,Male,Bangalore,Regular,01:48 PM,05:48 PM,0,5000
+383,Manoj,24,Male,Mumbai,Regular,05:23 PM,08:23 PM,0,2000
+384,Manoj,43,Male,Bangalore,Student,12:10 PM,06:10 PM,0,5000
+385,Ankit,38,Male,Kolkata,Early Bird,12:04 PM,06:04 PM,0,5000
+386,Riya,28,Female,Bangalore,Early Bird,11:18 AM,03:18 PM,1,3000
+387,Vikas,39,Male,Ahmedabad,Student,01:34 PM,03:34 PM,1,1000
+388,Ankit,52,Male,Bangalore,VIP,05:37 PM,10:37 PM,0,5000
+389,Simran,42,Female,Ahmedabad,Early Bird,09:11 AM,12:11 PM,0,500
+390,Ankit,18,Female,Mumbai,Regular,11:44 AM,04:44 PM,0,500
+391,Priya,43,Male,Mumbai,VIP,11:34 AM,04:34 PM,1,2000
+392,Ankit,50,Female,Kolkata,Student,11:06 AM,01:06 PM,0,500
+393,Ankit,52,Male,Chennai,Early Bird,09:13 AM,02:13 PM,0,5000
+394,Rahul,50,Female,Ahmedabad,Group,11:40 AM,03:40 PM,0,5000
+395,Rahul,46,Male,Hyderabad,VIP,01:14 PM,03:14 PM,0,3000
+396,Manoj,54,Male,Chennai,Regular,05:05 PM,06:05 PM,0,500
+397,Neha,44,Female,Delhi,Regular,12:57 PM,01:57 PM,0,500
+398,Simran,40,Female,Delhi,Group,09:36 AM,03:36 PM,0,3000
+399,Priya,30,Male,Kolkata,Group,02:51 PM,06:51 PM,0,2000
+400,Manoj,24,Male,Bangalore,Early Bird,10:12 AM,11:12 AM,0,5000
+401,Manoj,49,Female,Pune,VIP,04:31 PM,09:31 PM,1,1000
+402,Neha,24,Female,Mumbai,VIP,09:42 AM,03:42 PM,0,2000
+403,Riya,42,Female,Delhi,Early Bird,03:40 PM,06:40 PM,0,5000
+404,Priya,51,Male,Ahmedabad,Group,02:17 PM,07:17 PM,0,2000
+405,Ankit,37,Male,Delhi,Regular,05:03 PM,06:03 PM,0,2000
+406,Simran,28,Female,Chennai,Group,10:18 AM,03:18 PM,0,3000
+407,Neha,50,Female,Mumbai,Group,04:52 PM,09:52 PM,0,1000
+408,Amit,52,Female,Ahmedabad,Regular,01:43 PM,03:43 PM,0,2000
+409,Riya,41,Male,Chennai,Group,02:08 PM,05:08 PM,0,1000
+410,Amit,55,Male,Mumbai,Group,01:12 PM,04:12 PM,0,2000
+411,Riya,28,Female,Delhi,Group,01:42 PM,02:42 PM,0,500
+412,Riya,34,Female,Kolkata,Regular,04:07 PM,10:07 PM,0,5000
+413,Vikas,53,Female,Pune,Student,11:16 AM,02:16 PM,0,3000
+414,Ankit,51,Male,Kolkata,VIP,03:26 PM,04:26 PM,1,3000
+415,Simran,28,Male,Bangalore,Student,05:19 PM,09:19 PM,0,5000
+416,Amit,40,Female,Mumbai,Student,01:37 PM,05:37 PM,1,2000
+417,Pooja,21,Female,Chennai,Student,12:56 PM,02:56 PM,0,1000
+418,Vikas,27,Male,Mumbai,Regular,11:03 AM,03:03 PM,0,2000
+419,Priya,49,Male,Mumbai,Early Bird,03:26 PM,09:26 PM,0,500
+420,Amit,44,Female,Pune,Early Bird,03:54 PM,05:54 PM,0,3000
+421,Pooja,33,Female,Kolkata,Group,01:42 PM,03:42 PM,0,500
+422,Rahul,35,Female,Hyderabad,VIP,03:19 PM,08:19 PM,0,5000
+423,Amit,29,Male,Ahmedabad,Regular,05:13 PM,09:13 PM,0,5000
+424,Priya,47,Female,Pune,Student,09:52 AM,01:52 PM,0,1000
+425,Vikas,35,Male,Hyderabad,Student,09:04 AM,12:04 PM,0,2000
+426,Ankit,48,Female,Pune,VIP,09:57 AM,03:57 PM,0,5000
+427,Manoj,52,Male,Delhi,VIP,10:07 AM,02:07 PM,0,1000
+428,Ankit,25,Male,Pune,VIP,10:29 AM,03:29 PM,0,1000
+429,Ankit,41,Female,Ahmedabad,Group,05:11 PM,08:11 PM,0,500
+430,Simran,46,Male,Delhi,Group,04:39 PM,07:39 PM,0,5000
+431,Rahul,36,Female,Pune,VIP,05:47 PM,06:47 PM,1,500
+432,Pooja,26,Male,Chennai,Group,02:22 PM,07:22 PM,0,500
+433,Manoj,51,Female,Mumbai,Regular,09:56 AM,03:56 PM,0,2000
+434,Rahul,41,Male,Kolkata,Student,04:17 PM,10:17 PM,1,5000
+435,Neha,26,Male,Pune,Group,11:53 AM,12:53 PM,0,5000
+436,Vikas,48,Male,Delhi,Regular,09:08 AM,10:08 AM,0,5000
+437,Simran,18,Male,Chennai,Student,03:21 PM,09:21 PM,0,3000
+438,Amit,25,Male,Chennai,Student,11:48 AM,05:48 PM,0,2000
+439,Amit,38,Male,Chennai,Early Bird,09:24 AM,12:24 PM,0,1000
+440,Rahul,45,Male,Hyderabad,Group,11:11 AM,02:11 PM,0,5000
+441,Neha,27,Male,Mumbai,Early Bird,01:07 PM,05:07 PM,0,2000
+442,Rahul,24,Female,Pune,Group,01:51 PM,07:51 PM,0,3000
+443,Neha,53,Male,Kolkata,Early Bird,10:19 AM,02:19 PM,1,1000
+444,Riya,28,Male,Delhi,VIP,11:47 AM,03:47 PM,0,1000
+445,Simran,45,Female,Ahmedabad,Group,11:55 AM,01:55 PM,1,1000
+446,Ankit,25,Female,Kolkata,Student,05:09 PM,06:09 PM,0,3000
+447,Manoj,44,Male,Delhi,Student,03:29 PM,06:29 PM,0,1000
+448,Simran,24,Female,Mumbai,VIP,09:29 AM,03:29 PM,0,2000
+449,Rahul,30,Male,Bangalore,Group,02:09 PM,07:09 PM,0,500
+450,Ankit,22,Male,Mumbai,Regular,02:18 PM,08:18 PM,0,3000
+451,Rahul,32,Male,Bangalore,Regular,02:15 PM,04:15 PM,0,1000
+452,Neha,44,Female,Kolkata,Regular,05:15 PM,11:15 PM,0,3000
+453,Amit,48,Female,Pune,Early Bird,01:56 PM,02:56 PM,0,1000
+454,Vikas,45,Female,Delhi,Regular,03:53 PM,04:53 PM,0,500
+455,Neha,21,Female,Delhi,VIP,10:53 AM,12:53 PM,0,500
+456,Amit,21,Female,Chennai,Regular,02:42 PM,07:42 PM,0,1000
+457,Priya,39,Female,Ahmedabad,Student,01:54 PM,07:54 PM,0,1000
+458,Neha,52,Male,Delhi,VIP,03:48 PM,09:48 PM,1,1000
+459,Pooja,50,Male,Ahmedabad,Student,09:20 AM,12:20 PM,0,5000
+460,Priya,45,Female,Delhi,VIP,04:19 PM,05:19 PM,0,3000
+461,Neha,25,Male,Hyderabad,Group,09:04 AM,02:04 PM,0,500
+462,Riya,31,Female,Delhi,VIP,03:50 PM,07:50 PM,0,500
+463,Riya,26,Female,Pune,Early Bird,10:32 AM,04:32 PM,0,2000
+464,Manoj,46,Male,Chennai,Regular,12:59 PM,04:59 PM,0,2000
+465,Rahul,22,Female,Pune,VIP,11:34 AM,05:34 PM,1,3000
+466,Vikas,24,Female,Chennai,Early Bird,01:34 PM,03:34 PM,0,500
+467,Pooja,22,Male,Hyderabad,Student,02:36 PM,06:36 PM,1,2000
+468,Neha,28,Male,Chennai,VIP,02:54 PM,03:54 PM,0,3000
+469,Rahul,21,Female,Ahmedabad,Early Bird,05:16 PM,09:16 PM,0,2000
+470,Neha,23,Female,Ahmedabad,VIP,09:50 AM,12:50 PM,0,2000
+471,Priya,38,Male,Mumbai,Early Bird,05:03 PM,09:03 PM,0,2000
+472,Neha,48,Female,Chennai,Group,09:41 AM,11:41 AM,0,1000
+473,Simran,30,Female,Delhi,Group,12:17 PM,03:17 PM,0,3000
+474,Vikas,28,Female,Kolkata,Early Bird,04:13 PM,08:13 PM,0,3000
+475,Manoj,18,Male,Pune,Early Bird,09:48 AM,03:48 PM,0,3000
+476,Vikas,28,Female,Ahmedabad,VIP,02:12 PM,07:12 PM,1,500
+477,Ankit,28,Female,Chennai,Early Bird,12:36 PM,06:36 PM,0,1000
+478,Pooja,26,Male,Hyderabad,Regular,05:27 PM,07:27 PM,0,3000
+479,Pooja,37,Female,Ahmedabad,Regular,02:30 PM,06:30 PM,0,3000
+480,Rahul,33,Male,Bangalore,Group,02:02 PM,03:02 PM,1,1000
+481,Neha,41,Male,Hyderabad,VIP,09:31 AM,12:31 PM,0,500
+482,Amit,20,Female,Ahmedabad,Student,05:10 PM,09:10 PM,0,2000
+483,Amit,32,Male,Mumbai,Regular,04:55 PM,08:55 PM,0,1000
+484,Neha,27,Female,Chennai,Group,01:22 PM,06:22 PM,0,5000
+485,Manoj,31,Male,Chennai,VIP,03:36 PM,04:36 PM,0,2000
+486,Neha,31,Male,Mumbai,Regular,03:38 PM,09:38 PM,0,5000
+487,Pooja,35,Male,Mumbai,Group,06:00 PM,11:00 PM,0,3000
+488,Priya,52,Male,Pune,VIP,02:27 PM,07:27 PM,0,2000
+489,Pooja,29,Male,Kolkata,Student,04:23 PM,06:23 PM,1,1000
+490,Vikas,23,Female,Hyderabad,Student,09:52 AM,02:52 PM,0,500
+491,Pooja,50,Female,Chennai,Student,04:59 PM,09:59 PM,0,3000
+492,Rahul,55,Female,Mumbai,Student,12:01 PM,03:01 PM,0,1000
+493,Manoj,39,Male,Hyderabad,Regular,01:02 PM,03:02 PM,0,5000
+494,Ankit,19,Male,Pune,Regular,12:58 PM,04:58 PM,0,3000
+495,Ankit,36,Female,Pune,Regular,09:38 AM,03:38 PM,0,5000
+496,Ankit,48,Female,Bangalore,VIP,01:45 PM,06:45 PM,0,3000
+497,Simran,53,Male,Bangalore,Student,11:42 AM,01:42 PM,0,500
+498,Pooja,37,Male,Chennai,Group,12:10 PM,01:10 PM,0,3000
+499,Ankit,21,Female,Delhi,Early Bird,12:22 PM,04:22 PM,0,1000
+500,Ankit,53,Male,Hyderabad,VIP,09:47 AM,12:47 PM,1,500
